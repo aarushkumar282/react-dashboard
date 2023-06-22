@@ -1,0 +1,22 @@
+.avatar-title {
+  align-items: center !important;
+  background-color: #556ee6 !important;
+  color: #fff !important;
+  display: flex !important;
+  font-weight: 500 !important;
+  height: 100% !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+.avatar-xs {
+  height: 2rem;
+  width: 2rem;
+}
+
+.avatar-twitter {
+  background-color: rgb(80, 165, 241) !important;
+}
+
+.avatar-insta {
+  background-color: rgb(232, 62, 140) !important;
+}
